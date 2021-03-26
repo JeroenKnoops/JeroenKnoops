@@ -1,7 +1,3 @@
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
-
 My name is Jeroen Knoops. I work as a Computer.nerd at Philips Research.
 
 ![Snake animation](https://github.com/JeroenKnoops/JeroenKnoops/blob/output/github-contribution-grid-snake.svg)
