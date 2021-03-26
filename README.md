@@ -4,6 +4,8 @@
 
 My name is Jeroen Knoops. I work as a Computer.nerd at Philips Research.
 
+![Snake animation](https://github.com/JeroenKnoops/JeroenKnoops/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 I’m currently working on Software Bill of Material and promoting open and inner source within Philips.
 - 🌱 I’m currently learning Rust-lang.
 - 💬 Ask me about sourdough bread, brewing beer, synthesizers and drum-computers
@@ -22,6 +24,14 @@ My name is Jeroen Knoops. I work as a Computer.nerd at Philips Research.
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=JeroenKnoops&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=JeroenKnoops&hide_border=true)
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+
+<!-- <p align="center">
+  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+</p> -->
 
 ### Let's connect? 🤝
 
