@@ -21,13 +21,10 @@ My name is Jeroen Knoops. I work as a Computer.nerd at Philips Research.
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=JeroenKnoops&hide_border=true)
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
-
-<!-- <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
+<p align="center">
+  <img width="63%" src="profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="35%" src="profile-summary-card-output/github/4-productive-time.svg" />
+</p>
 
 ### Let's connect? 🤝
 
