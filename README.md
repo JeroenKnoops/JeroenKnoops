@@ -10,7 +10,7 @@ My name is Jeroen Knoops. I work as a Computer.nerd at Philips Research.
 
 ### Identity
 
-[identtiy Box](https://idbox.online): `did:ipid:QmZvCkz1coWfNJ19DKZpn3ztKLrzvXvUcV1pcfM2wcHXH8`
+[identity Box](https://idbox.online): `did:ipid:QmZvCkz1coWfNJ19DKZpn3ztKLrzvXvUcV1pcfM2wcHXH8`
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JeroenKnoops&repo=JeroenKnoops&countColorcountColor)
 
