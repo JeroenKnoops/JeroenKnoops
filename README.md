@@ -8,6 +8,10 @@ My name is Jeroen Knoops. I work as a Computer.nerd at Philips Research.
 - 📫 How to reach me: That should not be too hard
 - ⚡ Fun fact: I love the following number sequences: 101, 202, 303, 606, 707, 727, 808 and 909
 
+### Identity
+
+[identtiy Box](https://idbox.online): `did:ipid:QmZvCkz1coWfNJ19DKZpn3ztKLrzvXvUcV1pcfM2wcHXH8`
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JeroenKnoops&repo=JeroenKnoops&countColorcountColor)
 
 ### Analytics ⚙️
