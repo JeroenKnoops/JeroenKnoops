@@ -2,8 +2,9 @@ My name is Jeroen Knoops. I work as a Computer.nerd at Philips Research.
 
 ![Snake animation](https://github.com/JeroenKnoops/JeroenKnoops/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on Software Bill of Material and promoting open and inner source within Philips.
-- 🌱 I’m currently learning Rust-lang.
+- 🔭 I’m currently working on Hospital Patient Monitoring within Philips.
+- 🔭 I’m also working on Software Bill of Material and promoting open and inner source within Philips.
+- 🌱 I’m currently learning Rust-lang and Nix.
 - 💬 Ask me about sourdough bread, brewing beer, synthesizers and drum-computers
 - 📫 How to reach me: That should not be too hard
 - ⚡ Fun fact: I love the following number sequences: 101, 202, 303, 606, 707, 727, 808 and 909
